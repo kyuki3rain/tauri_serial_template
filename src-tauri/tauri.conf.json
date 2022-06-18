@@ -58,7 +58,7 @@
         "fullscreen": false,
         "height": 600,
         "resizable": true,
-        "title": "sswho receiver",
+        "title": "tauri serial template",
         "width": 800
       }
     ]
